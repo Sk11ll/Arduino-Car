@@ -1,4 +1,4 @@
-# Arduino Car Project 'my first project on the GitHub'
+# Arduino Car Project
 
 An Arduino-based RC car controlled via Bluetooth.
 
