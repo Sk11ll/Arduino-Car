@@ -3,7 +3,7 @@
 An Arduino-based RC car controlled via Bluetooth.
 
 ## Circuit Diagram
-![Circuit Diagram] (schematic.jpg)
+![Circuit Diagram](schematic.jpg)
 
 ## Description
  This projects uses:
